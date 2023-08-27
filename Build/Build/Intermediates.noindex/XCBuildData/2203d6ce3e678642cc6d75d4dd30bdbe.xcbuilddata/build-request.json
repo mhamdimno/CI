@@ -1,0 +1,72 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "3171839de50d75ab86c5c476eaae5dc15255bf7ee5560250ba1df2f6ab7b97af"
+    },
+    {
+      "guid" : "3171839de50d75ab86c5c476eaae5dc14bc67a47eb6d149b095f37fdf8f842e0"
+    }
+  ],
+  "containerPath" : "/Volumes/Data/Downloads/CI/CI.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Volumes/Data/Downloads/CI/Build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Volumes/Data/Downloads/CI/Build/Build/Products",
+      "derivedDataPath" : "/Volumes/Data/Downloads/CI/Build",
+      "indexDataStoreFolderPath" : "/Volumes/Data/Downloads/CI/Build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Volumes/Data/Downloads/CI/Build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Volumes/Data/Downloads/CI/Build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "SDKROOT" : "iphonesimulator16.4"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone10,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone10,4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Volumes/Data/Downloads/CI/Build/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "F1B536F6-8BF6-4B17-B422-BE084D0BABEC",
+          "TARGET_DEVICE_MODEL" : "iPhone10,4",
+          "TARGET_DEVICE_OS_VERSION" : "16.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

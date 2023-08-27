@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3C184696-A55A-4514-9B55-0C1DA4A3A6AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3C184696-A55A-4514-9B55-0C1DA4A3A6AA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace CI with scheme CI</string>
+			<key>timeStartedRecording</key>
+			<real>714803650.713745</real>
+			<key>timeStoppedRecording</key>
+			<real>714803713.15823197</real>
+			<key>title</key>
+			<string>Building workspace CI with scheme CI</string>
+			<key>uniqueIdentifier</key>
+			<string>3C184696-A55A-4514-9B55-0C1DA4A3A6AA</string>
+		</dict>
+		<key>6EAE804D-6A0C-4A07-AD6A-E80938A56B6A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6EAE804D-6A0C-4A07-AD6A-E80938A56B6A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing workspace CI with scheme CI</string>
+			<key>timeStartedRecording</key>
+			<real>714803713.31429899</real>
+			<key>timeStoppedRecording</key>
+			<real>714803738.93854499</real>
+			<key>title</key>
+			<string>Testing workspace CI with scheme CI</string>
+			<key>uniqueIdentifier</key>
+			<string>6EAE804D-6A0C-4A07-AD6A-E80938A56B6A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
