@@ -1,0 +1,12 @@
+{
+  "source": "/Volumes/Data/Downloads/CI/CI/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

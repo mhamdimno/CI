@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "5f8676c4c793a2f5afb900cae0ea0168b24ecb11a6a7d958e2f8aabbb08df010"
+build_start_time: [1693110916, 426120000]
+build_end_time: [1693110938, 929304000]
+inputs:
+  "/Volumes/Data/Downloads/CI/CI/CIApp.swift": [1693109779, 0]
+  "/Volumes/Data/Downloads/CI/CI/ContentView.swift": [1693109779, 0]
